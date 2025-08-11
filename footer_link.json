@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Quick Links",
+        "links": [
+            {
+                "text": "Website",
+                "url": "https://splendor.org/"
+            },
+            {
+                "text": "Telegram",
+                "url": "https://t.me/SplendorLabs"
+            },
+            {
+                "text": "Twitter",
+                "url": "https://x.com/splendorlabs"
+            },
+            {
+                "text": "Github",
+                "url": "https://github.com/Splendor-Protocol/"
+            }            
+        ]
+    }
+]
+
